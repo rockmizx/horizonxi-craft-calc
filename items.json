@@ -1,0 +1,128 @@
+[
+    {
+        "item": "Meat Mithkabob",
+        "materials": [
+            {
+                "name": "Slice Of Grilled Hare",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Mithran Tomato",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Bunch Of Kazham Peppers",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Wild Onion",
+                "quantity": 1,
+                "stack_size": 12
+            }
+        ],
+        "produced": 6,
+        "stack_size": 12
+    },
+    {
+        "item": "Jack-o-lantern",
+        "materials": [
+            {
+                "name": "Lump Of Beeswax",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Ogre Pumpkin",
+                "quantity": 1,
+                "stack_size": 12
+            }
+        ],
+        "produced": 1,
+        "stack_size": 12
+    },
+    {
+        "item": "Ball of insect paste",
+        "materials": [
+            {
+                "name": "Ear Of Millioncorn",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Little Worm",
+                "quantity": 1,
+                "stack_size": 99
+            },
+            {
+                "name": "Flask Of Distilled Water",
+                "quantity": 1,
+                "stack_size": 12
+            }
+        ],
+        "produced": 12,
+        "stack_size": 99
+    },
+	{
+        "item": "Rice Dumpling",
+        "materials": [
+            {
+                "name": "Slice Of Dhalmel Meat",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Coral Fungus",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Pot Of Maple Sugar",
+                "quantity": 1,
+                "stack_size": 12
+            },
+			{
+                "name": "Bamboo Stick",
+                "quantity": 1,
+                "stack_size": 12
+            },
+			{
+                "name": "Chunk Of Rock Salt",
+                "quantity": 1,
+                "stack_size": 12
+            },
+			{
+                "name": "Flask of distilled water",
+                "quantity": 1,
+                "stack_size": 12
+            }
+        ],
+        "produced": 3,
+        "stack_size": 12
+    },
+	{
+        "item": "Tavnazian taco",
+        "materials": [
+            {
+                "name": "Dish of salsa",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Tavnazian salad",
+                "quantity": 1,
+                "stack_size": 12
+            },
+            {
+                "name": "Tortilla",
+                "quantity": 2,
+                "stack_size": 12
+            }
+        ],
+        "produced": 6,
+        "stack_size": 12
+    }
+]
+
