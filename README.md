@@ -85,11 +85,3 @@ The script uses an existing Firefox profile to access the Horizon XI website. Yo
 ## Contributions
 
 Feel free to contribute improvements or fixes to the script. Simply fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-I hope this tutorial was helpful! If you have any questions or issues, feel free to open an issue in the repository.
